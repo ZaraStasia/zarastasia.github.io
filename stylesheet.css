@@ -1,3 +1,8 @@
 h1 {
-  color: red;
+    background-color: pink;
+    color: red;
+}
+h2 {
+    background-color: pink;
+    color: blue;
 }

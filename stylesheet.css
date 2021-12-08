@@ -1,13 +1,13 @@
 h1 {
     text-align:center;
-    background-color: lightpink;
+    background-color: #ffb6c1;
     color: red;
 }    
 h2 {
     color: blue;;
 }
 #btn {
-    width: 100px;
+    width: 80px;
     height: 20px;
     background: #ef454a;
     text-align: center;

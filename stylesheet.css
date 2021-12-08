@@ -1,3 +1,8 @@
+p{
+    color:mediumorchid
+    
+}
+
 h1 {
     text-align:center;
     background-color: #ffb6c1;
@@ -7,11 +12,12 @@ h2 {
     color: blue;;
 }
 #btn {
-    width: 80px;
+    width: 100px;
     height: 20px;
     background: #ef454a;
     text-align: center;
     color: #fff;
+    margin-top: auto;
     font-weight: bold;
     font-size: 10px;
 }

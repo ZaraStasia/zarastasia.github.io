@@ -1,5 +1,5 @@
 p{
-    color:mediumorchid
+    color:violet
     
 }
 
@@ -10,8 +10,9 @@ h1 {
 }    
 h2 {
     color: blue;;
+    
 }
-#btn {
+.btn-1 {
     width: 100px;
     height: 20px;
     background: #ef454a;
@@ -20,4 +21,43 @@ h2 {
     margin-top: auto;
     font-weight: bold;
     font-size: 10px;
+}
+#tab {
+    width: 400px;
+    background: #1caa5d;
+    border: solid 1px #1caa5d;
+}
+
+/* 頁籤ul */
+#tab > ul {
+    /* overflow: hidden; */
+    margin: 0;
+    padding: 10px 20px 0 20px;
+}
+
+#tab > ul > li {
+    list-style-type: none;
+}
+a:link {
+    color: green;
+    background-color: transparent;
+    text-decoration: none;
+}
+  
+a:visited {
+    color: pink;
+    background-color: transparent;
+    text-decoration: none;
+}
+  
+a:hover {
+    color: red;
+    background-color: transparent;
+    text-decoration: underline;
+}
+  
+a:active {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: underline;
 }
